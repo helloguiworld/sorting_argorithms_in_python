@@ -1,7 +1,7 @@
 from swap import swap
 
-# Time complexity:  O()
-# Space complexity: O()
+# Time complexity:  O(n²)
+# Space complexity: O(1)
 def selection_sort(array):
     print("---Selection Sort")
 
