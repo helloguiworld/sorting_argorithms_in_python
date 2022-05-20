@@ -3,7 +3,7 @@ from swap import swap
 # Time complexity:  O(n²)
 # Space complexity: O(1)
 def selection_sort(array):
-    print("---Selection Sort")
+    print("--- Selection Sort")
 
     for i in range(len(array) - 1):
         maior = 0
